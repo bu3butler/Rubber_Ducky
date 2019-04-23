@@ -1,8 +1,8 @@
-Rubber_Ducky
-Beginner Duck Code for practice
+# Rubber_Ducky
+# Beginner Duck Code for practice
 
---copy duck code below. Go to www.ducktoolkit.com and go to the encoder.
---any questions just ask! I wish I had help too when I began! :) 
+# --copy duck code below. Go to www.ducktoolkit.com and go to the encoder.
+# --any questions just ask! I wish I had help too when I began! :) 
 
 DELAY 500
 
